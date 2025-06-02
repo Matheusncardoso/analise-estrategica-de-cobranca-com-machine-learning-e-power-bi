@@ -73,13 +73,13 @@ O dashboard foi construído com:
 
 ### Página 1 – Dashboard Interativo
 
-![Dashboard](imagens/img_dashboard.png)
+![Dashboard](img_dashboard.png)
 
 ---
 
 ### Página 2 – Resumo Estratégico
 
-![Resumo](imagens/img_resumo.png)
+![Resumo](img_resumo.png)
 
 ---
 
