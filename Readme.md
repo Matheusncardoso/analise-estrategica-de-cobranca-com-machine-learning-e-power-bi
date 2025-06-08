@@ -114,16 +114,11 @@ O projeto segue um pipeline estruturado de processamento de dados:
    - Treinamento de três algoritmos diferentes
    - Avaliação comparativa de performance
    - Geração de métricas e visualizações
-   - Persistência de modelos treinados
 
 5. **Visualização e BI** (Power BI)
    - Dashboard interativo com KPIs principais
    - Análise exploratória por segmentos
    - Storytelling analítico para tomada de decisão
-
-## 🤖 Modelos de Machine Learning
-
-O projeto implementa três algoritmos de classificação para prever a probabilidade de resposta positiva do cliente à cobrança. Cada modelo possui características específicas e é avaliado através de múltiplas métricas para garantir robustez na seleção.
    
 ---
 
