@@ -51,8 +51,8 @@ Foi criado um script em Python para gerar dados realistas de inadimplência, con
 - Resposta do cliente
 - Faixa de risco
 
-### 2. **Exportação SQL simulada**
-O script `exportar_csv.py` executa uma query `.sql` sobre o DataFrame e exporta os dados enriquecidos em `.csv`.
+### 2. Exportação simulada de banco de dados  
+Os dados foram exportados como se tivessem vindo de um banco relacional, simulando uma operação via SQL, mas utilizando apenas Python e Pandas para gerar o `.csv`.
 
 ### 3. **Limpeza e enriquecimento**
 Usamos Power Query (Excel e Power BI) para:
