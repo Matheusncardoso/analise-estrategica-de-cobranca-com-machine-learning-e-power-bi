@@ -164,6 +164,7 @@ O projeto implementa três algoritmos de classificação para prever a probabili
 - ![Importância - Gain](modelo_xgboost/GAIN_impacto_features.png)
 
 **📊 Comparativo de Performance dos Modelos**
+
 Modelo	AUC-ROC	F1-Score	Precisão	Recall
 Regressão Logística	0.56	0.50	0.50	0.50
 Random Forest	0.60	0.50	0.50	0.50
