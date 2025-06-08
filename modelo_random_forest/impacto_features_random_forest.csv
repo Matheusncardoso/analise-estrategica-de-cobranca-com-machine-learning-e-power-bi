@@ -1,0 +1,15 @@
+feature,importancia
+cat__valor_faixa_Baixo,0.0038046844153834815
+cat__valor_faixa_Médio,0.008786503709496983
+cat__faixa_risco_Baixo,0.014009667401772272
+cat__faixa_atraso_<15 dias,0.01733498938529047
+cat__faixa_risco_Médio,0.018434557570509318
+cat__canal_utilizado_WhatsApp,0.020182402143652394
+cat__canal_utilizado_SMS,0.02210500117173778
+cat__faixa_atraso_>60 dias,0.024876386124534813
+cat__faixa_atraso_30-60 dias,0.0266087468733385
+cat__canal_grupo_Humano,0.027359586999337916
+cat__faixa_risco_Muito Alto,0.04084947414247281
+cat__canal_utilizado_Ligação,0.04610597946283649
+remainder__dias_em_atraso,0.3502569192169901
+remainder__valor_divida,0.37928510138264665

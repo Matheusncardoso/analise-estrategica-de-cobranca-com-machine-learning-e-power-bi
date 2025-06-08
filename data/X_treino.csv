@@ -1,0 +1,176 @@
+dias_em_atraso,valor_divida,canal_utilizado,faixa_risco,faixa_atraso,canal_grupo,valor_faixa
+32,15741.33,Assessoria,Alto,30-60 dias,Humano,Alto
+32,12772.68,SMS,Alto,30-60 dias,Digital,Alto
+62,17787.52,WhatsApp,Alto,>60 dias,Digital,Alto
+105,18497.92,SMS,Muito Alto,>60 dias,Digital,Alto
+59,18571.54,Ligação,Alto,30-60 dias,Humano,Alto
+38,21695.76,WhatsApp,Muito Alto,30-60 dias,Digital,Alto
+106,13104.29,Ligação,Muito Alto,>60 dias,Humano,Alto
+41,4056.75,Ligação,Médio,30-60 dias,Humano,Alto
+15,27962.53,SMS,Muito Alto,15-30 dias,Digital,Alto
+72,27521.22,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+77,17386.69,Ligação,Alto,>60 dias,Humano,Alto
+110,18633.01,Assessoria,Muito Alto,>60 dias,Humano,Alto
+4,5433.09,Assessoria,Médio,<15 dias,Humano,Alto
+97,14461.26,Ligação,Muito Alto,>60 dias,Humano,Alto
+46,12327.97,Ligação,Alto,30-60 dias,Humano,Alto
+75,29065.06,Ligação,Muito Alto,>60 dias,Humano,Alto
+113,28711.69,Ligação,Muito Alto,>60 dias,Humano,Alto
+2,24756.03,SMS,Muito Alto,<15 dias,Digital,Alto
+25,14925.73,WhatsApp,Alto,15-30 dias,Digital,Alto
+107,27309.08,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+70,14178.7,Assessoria,Alto,>60 dias,Humano,Alto
+109,21822.65,SMS,Muito Alto,>60 dias,Digital,Alto
+63,15615.28,Assessoria,Alto,>60 dias,Humano,Alto
+35,20851.0,SMS,Muito Alto,30-60 dias,Digital,Alto
+84,26806.91,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+113,27707.97,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+97,5414.55,SMS,Muito Alto,>60 dias,Digital,Alto
+79,5717.15,WhatsApp,Alto,>60 dias,Digital,Alto
+19,21714.81,WhatsApp,Muito Alto,15-30 dias,Digital,Alto
+110,28785.44,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+95,8297.96,SMS,Muito Alto,>60 dias,Digital,Alto
+118,27016.57,Assessoria,Muito Alto,>60 dias,Humano,Alto
+48,9800.65,SMS,Médio,30-60 dias,Digital,Alto
+97,21913.05,Assessoria,Muito Alto,>60 dias,Humano,Alto
+119,4638.58,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+117,28652.95,Ligação,Muito Alto,>60 dias,Humano,Alto
+66,16244.44,Assessoria,Alto,>60 dias,Humano,Alto
+111,25462.64,Ligação,Muito Alto,>60 dias,Humano,Alto
+56,2382.52,Ligação,Médio,30-60 dias,Humano,Alto
+9,12764.45,Assessoria,Alto,<15 dias,Humano,Alto
+27,11180.58,Ligação,Alto,15-30 dias,Humano,Alto
+103,9603.53,Assessoria,Muito Alto,>60 dias,Humano,Alto
+119,28647.24,Ligação,Muito Alto,>60 dias,Humano,Alto
+29,20678.15,SMS,Muito Alto,15-30 dias,Digital,Alto
+90,15053.96,WhatsApp,Alto,>60 dias,Digital,Alto
+94,7762.6,Assessoria,Muito Alto,>60 dias,Humano,Alto
+85,4080.25,WhatsApp,Alto,>60 dias,Digital,Alto
+68,21930.19,SMS,Muito Alto,>60 dias,Digital,Alto
+83,4458.33,Ligação,Alto,>60 dias,Humano,Alto
+9,26147.02,Assessoria,Muito Alto,<15 dias,Humano,Alto
+117,17204.52,Ligação,Muito Alto,>60 dias,Humano,Alto
+14,18033.22,SMS,Alto,<15 dias,Digital,Alto
+114,14910.56,SMS,Muito Alto,>60 dias,Digital,Alto
+32,10099.75,Ligação,Alto,30-60 dias,Humano,Alto
+98,11100.08,SMS,Muito Alto,>60 dias,Digital,Alto
+94,6327.26,Assessoria,Muito Alto,>60 dias,Humano,Alto
+70,19259.52,Assessoria,Alto,>60 dias,Humano,Alto
+81,718.27,Assessoria,Alto,>60 dias,Humano,Médio
+109,20899.9,Ligação,Muito Alto,>60 dias,Humano,Alto
+70,13495.66,SMS,Alto,>60 dias,Digital,Alto
+53,12942.37,Assessoria,Alto,30-60 dias,Humano,Alto
+59,2123.08,Assessoria,Médio,30-60 dias,Humano,Alto
+7,5934.98,WhatsApp,Médio,<15 dias,Digital,Alto
+7,17478.22,Assessoria,Alto,<15 dias,Humano,Alto
+50,3146.7,SMS,Médio,30-60 dias,Digital,Alto
+6,17410.37,Assessoria,Alto,<15 dias,Humano,Alto
+108,19037.15,Assessoria,Muito Alto,>60 dias,Humano,Alto
+86,7653.22,WhatsApp,Alto,>60 dias,Digital,Alto
+116,17444.68,SMS,Muito Alto,>60 dias,Digital,Alto
+41,9217.71,WhatsApp,Médio,30-60 dias,Digital,Alto
+31,25935.02,Ligação,Muito Alto,30-60 dias,Humano,Alto
+98,21588.22,SMS,Muito Alto,>60 dias,Digital,Alto
+97,5336.57,SMS,Muito Alto,>60 dias,Digital,Alto
+3,27678.74,SMS,Muito Alto,<15 dias,Digital,Alto
+68,14512.2,WhatsApp,Alto,>60 dias,Digital,Alto
+90,9474.93,SMS,Alto,>60 dias,Digital,Alto
+84,4244.08,WhatsApp,Alto,>60 dias,Digital,Alto
+11,2507.4,WhatsApp,Baixo,<15 dias,Digital,Alto
+33,28098.15,Assessoria,Muito Alto,30-60 dias,Humano,Alto
+80,21723.02,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+2,2026.81,SMS,Baixo,<15 dias,Digital,Alto
+103,10562.08,Ligação,Muito Alto,>60 dias,Humano,Alto
+93,28152.74,Ligação,Muito Alto,>60 dias,Humano,Alto
+33,29016.67,SMS,Muito Alto,30-60 dias,Digital,Alto
+90,18747.63,WhatsApp,Alto,>60 dias,Digital,Alto
+104,26593.9,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+120,26920.36,SMS,Muito Alto,>60 dias,Digital,Alto
+67,1846.47,WhatsApp,Alto,>60 dias,Digital,Alto
+38,10210.95,WhatsApp,Alto,30-60 dias,Digital,Alto
+113,14469.24,Assessoria,Muito Alto,>60 dias,Humano,Alto
+103,19985.17,SMS,Muito Alto,>60 dias,Digital,Alto
+18,1349.54,Assessoria,Baixo,15-30 dias,Humano,Médio
+107,16828.24,Ligação,Muito Alto,>60 dias,Humano,Alto
+118,25457.43,SMS,Muito Alto,>60 dias,Digital,Alto
+107,21423.07,Ligação,Muito Alto,>60 dias,Humano,Alto
+23,14404.55,WhatsApp,Alto,15-30 dias,Digital,Alto
+30,27752.03,Ligação,Muito Alto,30-60 dias,Humano,Alto
+101,13025.06,Ligação,Muito Alto,>60 dias,Humano,Alto
+75,26650.0,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+57,3194.42,SMS,Médio,30-60 dias,Digital,Alto
+92,14701.83,Ligação,Muito Alto,>60 dias,Humano,Alto
+44,6631.83,Ligação,Médio,30-60 dias,Humano,Alto
+21,11400.02,WhatsApp,Alto,15-30 dias,Digital,Alto
+110,5114.95,SMS,Muito Alto,>60 dias,Digital,Alto
+63,6143.66,Ligação,Alto,>60 dias,Humano,Alto
+19,28358.67,Ligação,Muito Alto,15-30 dias,Humano,Alto
+57,23858.4,Ligação,Muito Alto,30-60 dias,Humano,Alto
+113,7788.76,SMS,Muito Alto,>60 dias,Digital,Alto
+43,13209.46,Ligação,Alto,30-60 dias,Humano,Alto
+109,28581.48,Ligação,Muito Alto,>60 dias,Humano,Alto
+54,23668.54,WhatsApp,Muito Alto,30-60 dias,Digital,Alto
+70,27951.08,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+12,4700.03,SMS,Baixo,<15 dias,Digital,Alto
+86,19129.45,Assessoria,Alto,>60 dias,Humano,Alto
+45,29720.36,SMS,Muito Alto,30-60 dias,Digital,Alto
+80,25982.26,Ligação,Muito Alto,>60 dias,Humano,Alto
+72,16057.81,SMS,Alto,>60 dias,Digital,Alto
+8,18968.23,SMS,Alto,<15 dias,Digital,Alto
+8,27327.75,Assessoria,Muito Alto,<15 dias,Humano,Alto
+105,181.09,WhatsApp,Muito Alto,>60 dias,Digital,Baixo
+28,19593.97,Ligação,Alto,15-30 dias,Humano,Alto
+69,1172.56,WhatsApp,Alto,>60 dias,Digital,Médio
+104,11468.03,Assessoria,Muito Alto,>60 dias,Humano,Alto
+45,29550.97,Ligação,Muito Alto,30-60 dias,Humano,Alto
+51,8815.37,WhatsApp,Médio,30-60 dias,Digital,Alto
+98,27863.48,SMS,Muito Alto,>60 dias,Digital,Alto
+76,27774.27,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+6,29908.75,Assessoria,Muito Alto,<15 dias,Humano,Alto
+81,5803.94,WhatsApp,Alto,>60 dias,Digital,Alto
+111,17329.12,Assessoria,Muito Alto,>60 dias,Humano,Alto
+21,9979.59,Assessoria,Médio,15-30 dias,Humano,Alto
+34,11259.44,WhatsApp,Alto,30-60 dias,Digital,Alto
+114,14665.02,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+119,7153.57,Assessoria,Muito Alto,>60 dias,Humano,Alto
+38,20435.31,WhatsApp,Muito Alto,30-60 dias,Digital,Alto
+118,8399.76,Assessoria,Muito Alto,>60 dias,Humano,Alto
+107,21255.08,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+32,6463.15,WhatsApp,Médio,30-60 dias,Digital,Alto
+46,8133.96,Assessoria,Médio,30-60 dias,Humano,Alto
+10,17849.08,Assessoria,Alto,<15 dias,Humano,Alto
+96,11734.75,Ligação,Muito Alto,>60 dias,Humano,Alto
+98,1030.35,Assessoria,Muito Alto,>60 dias,Humano,Médio
+30,9447.07,SMS,Médio,30-60 dias,Digital,Alto
+106,1809.35,Ligação,Muito Alto,>60 dias,Humano,Alto
+47,5489.69,WhatsApp,Médio,30-60 dias,Digital,Alto
+44,18761.9,Ligação,Alto,30-60 dias,Humano,Alto
+87,7730.24,SMS,Alto,>60 dias,Digital,Alto
+19,15645.35,Ligação,Alto,15-30 dias,Humano,Alto
+50,8085.23,Assessoria,Médio,30-60 dias,Humano,Alto
+92,21908.46,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+95,13829.97,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+40,8880.05,WhatsApp,Médio,30-60 dias,Digital,Alto
+11,511.61,SMS,Baixo,<15 dias,Digital,Médio
+12,2241.51,Ligação,Baixo,<15 dias,Humano,Alto
+82,8286.56,Ligação,Alto,>60 dias,Humano,Alto
+59,8881.85,SMS,Médio,30-60 dias,Digital,Alto
+17,2306.98,Ligação,Baixo,15-30 dias,Humano,Alto
+35,5664.05,SMS,Médio,30-60 dias,Digital,Alto
+29,9486.82,Ligação,Médio,15-30 dias,Humano,Alto
+114,3311.68,Assessoria,Muito Alto,>60 dias,Humano,Alto
+37,18721.23,Ligação,Alto,30-60 dias,Humano,Alto
+100,4516.54,SMS,Muito Alto,>60 dias,Digital,Alto
+37,11383.04,Assessoria,Alto,30-60 dias,Humano,Alto
+74,10013.8,Assessoria,Alto,>60 dias,Humano,Alto
+101,25805.05,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+103,12401.26,WhatsApp,Muito Alto,>60 dias,Digital,Alto
+112,29063.57,Ligação,Muito Alto,>60 dias,Humano,Alto
+21,5492.15,Assessoria,Médio,15-30 dias,Humano,Alto
+13,6339.73,Assessoria,Médio,<15 dias,Humano,Alto
+12,16214.76,Assessoria,Alto,<15 dias,Humano,Alto
+92,22754.92,Ligação,Muito Alto,>60 dias,Humano,Alto
+44,11887.17,Ligação,Alto,30-60 dias,Humano,Alto
+55,9562.06,Ligação,Médio,30-60 dias,Humano,Alto
+96,11918.38,Ligação,Muito Alto,>60 dias,Humano,Alto
+1,10991.02,Assessoria,Alto,<15 dias,Humano,Alto

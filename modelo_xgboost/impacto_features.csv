@@ -1,0 +1,15 @@
+feature,importancia
+valor_faixa_Baixo,0.0
+valor_faixa_Médio,0.0
+faixa_atraso_>60 dias,0.0039970656
+canal_utilizado_SMS,0.02298683
+faixa_risco_Muito Alto,0.033844195
+faixa_atraso_30-60 dias,0.041708257
+valor_divida,0.059365276
+faixa_risco_Médio,0.05952316
+canal_grupo_Humano,0.059815127
+faixa_atraso_<15 dias,0.06788791
+dias_em_atraso,0.0702837
+canal_utilizado_WhatsApp,0.07392016
+canal_utilizado_Ligação,0.11237315
+faixa_risco_Baixo,0.39429525
